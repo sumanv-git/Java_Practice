@@ -116,9 +116,6 @@ public class PracticeArrayList {
 
         logger.info("fixed index :" + nums.get(0));;
 
-        System.out.println("fixed index :" + nums.get(0));
-
-
         logger.info("pringing from List");
         for(Integer num : nums){
             logger.info("List "+ num);
